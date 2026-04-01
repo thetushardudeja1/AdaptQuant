@@ -1,0 +1,4 @@
+{"timestamp": "2026-04-01T00:07:57.388352", "from_model": "general-Q5", "to_model": "general-Q3", "reason": "cpu_temp_high", "switch_latency_ms": 340, "cpu_temp_c": 72.0, "ram_mb": 1500.0}
+{"timestamp": "2026-04-01T00:23:34.854112", "from_model": "general-Q5", "to_model": "general-Q3", "reason": "cpu_temp_high (49.05\u00b0C >= 45.0)", "switch_latency_ms": 1021, "cpu_temp_c": 49.05, "ram_mb": 1533.69}
+{"timestamp": "2026-04-01T02:43:35.269900", "from_model": "general-Q5", "to_model": "general-Q3", "reason": "pid_stress_high (score=61.82 | P=4.32 I=7.5 D=0.0 | temp=67.2\u00b0C)", "switch_latency_ms": 1021, "cpu_temp_c": 67.2, "ram_mb": 1541.41}
+{"timestamp": "2026-04-01T02:46:47.910417", "from_model": "general-Q5", "to_model": "general-Q3", "reason": "pid_stress_high (score=62.15 | P=4.65 I=7.5 D=0.0 | temp=67.75\u00b0C)", "switch_latency_ms": 1019, "cpu_temp_c": 67.75, "ram_mb": 1541.42}
